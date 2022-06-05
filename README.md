@@ -1,3 +1,3 @@
-## SailfishOS-vayu
+## SailfishOS-sagit
 
-[Directory Listing](https://sailfishos-vayu.github.io/repo/)
+[Directory Listing](https://sailfishos-sagit.github.io/repo/)
