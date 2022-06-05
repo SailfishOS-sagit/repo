@@ -1,0 +1,1 @@
+Sitemap: https://sailfishos-sagit.github.io/repo/sitemap.xml
