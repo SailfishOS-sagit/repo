@@ -18,39 +18,39 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-bluez5-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-bluez5-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-flashing-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-flashing-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-kickstart-configuration-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-kickstart-configuration-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-policy-settings-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-policy-settings-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-preinit-plugin-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-preinit-plugin-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-pulseaudio-settings-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-pulseaudio-settings-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-sailfish-1-202206061757.noarch.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-sailfish-1-202206061847.noarch.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-ssu-kickstarts-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/droid-config-sagit-ssu-kickstarts-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -270,39 +270,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/ngfd-1.4.0-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/patterns-sailfish-device-adaptation-sagit-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/ngfd-plugin-devel-1.4.0-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/patterns-sailfish-device-configuration-common-sagit-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/ngfd-plugin-doc-1.4.0-1.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/ngfd-plugin-fake-1.4.0-1.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/ngfd-settings-basic-1.4.0-1.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/ngfd-tests-1.4.0-1.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/patterns-sailfish-device-adaptation-sagit-1-202206061757.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/patterns-sailfish-device-configuration-common-sagit-1-202206061757.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/patterns-sailfish-device-configuration-sagit-1-202206061757.aarch64.rpm</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/patterns-sailfish-device-configuration-sagit-1-202206061847.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -342,27 +318,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/14743f0f38efe522f5baf79680dd2306c8cbd4aca6b97c8abb4bb16ad041480f-primary.sqlite.bz2</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/732adaf21f8854289e600f08985ee5b45722c1c1f3eeb4a05cae05cd55cddbe9-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/31ddc48855a1aa0534efc2af89e6e6bef428a6edb6999d8eb697fe8647b31d67-other.xml.gz</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/b8260404ea280b9a1d2e3df8fc15942b9ad427c7ac06b5bd9c044fcc9d9e4cef-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/3252981c5cfb4860355c5d39a263cd6ecb37dd29c04247597a55e3276367643e-primary.xml.gz</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/bef393a61936e5c907c6dc192bf371f487e5b193b20fd02b493f88a55360d0d4-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/344b0597aecac4452fefab45c674903edc5cca4d2c2574b93266c9b30254fde3-filelists.sqlite.bz2</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/d267aefae352497af218b0880091b6b61b2159beeb02129b3e06f7a9b4d206fe-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/6c132b223536ac19927de18bfbaaa90ad88444fca0c6b43f5887e6f661f6fcc4-filelists.xml.gz</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/d569553c382e8f3b3c8d144719d40e8b967de54d6f050b0dbb80eded98d96b3a-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/7e279bc95d936338ecf8d09150175e88cac7ddf57733f62cea9f0ce97de7c0f7-other.sqlite.bz2</loc>
+    <loc>https://sailfishos-sagit.github.io/repo/4.4.0.64/sagit/repo/repodata/fc65610b9474fdefa43b9c258dd8cae67733067c900b36e518eba5f8a934f201-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
